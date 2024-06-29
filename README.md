@@ -3,11 +3,11 @@ Welcome to my ✨GitHub!✨ I'm a passionate software engineer with a background
 
 About Me
 
-🎓 Education: Bachelor's in Computer Science from the University of Greenwich.
-💻 Skills: Python, Java, SQL, R, HTML, CSS, data structures, algorithms.
-📊 Interests: Machine learning, data analysis, and software development.
-🌟 Strengths: Problem-solving, teamwork, adaptability, and continuous learning.
-🚀 Looking for: Graduate roles in tech where I can contribute and grow.
+1. 🎓 Education: Bachelor's in Computer Science from the University of Greenwich.
+2. 💻 Skills: Python, Java, SQL, R, HTML, CSS, data structures, algorithms.
+3. 📊 Interests: Machine learning, data analysis, and software development.
+4. 🌟 Strengths: Problem-solving, teamwork, adaptability, and continuous learning.
+5. 🚀 Looking for: Graduate roles in tech where I can contribute and grow.
 
 Projects
 
