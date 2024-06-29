@@ -9,7 +9,7 @@ About Me
 🚀 Looking for: Graduate roles in tech where I can contribute and grow.
 
 Projects
-My most notable projects include: 
+ My most notable projects include: 
 1. Content-Based Recommender System: Developed using Python to improve user content suggestions.
 2. Automated Test Case Generation: Implemented with hybrid algorithms to enhance code coverage.
 3. Nutritional Supplements Analysis: Conducted data analysis using R to study impacts on lab animals.
