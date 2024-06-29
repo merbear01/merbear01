@@ -9,13 +9,14 @@ About Me
 🚀 Looking for: Graduate roles in tech where I can contribute and grow.
 
 Projects
-Content-Based Recommender System: Developed using Python to improve user content suggestions.
-Automated Test Case Generation: Implemented with hybrid algorithms to enhance code coverage.
-Nutritional Supplements Analysis: Conducted data analysis using R to study impacts on lab animals.
+My most notable projects include: 
+1. Content-Based Recommender System: Developed using Python to improve user content suggestions.
+2. Automated Test Case Generation: Implemented with hybrid algorithms to enhance code coverage.
+3. Nutritional Supplements Analysis: Conducted data analysis using R to study impacts on lab animals.
 
 Experience
-Citi ICG Technology (Virtual Intern): Enhanced loan management systems and evaluated machine learning for credit risk assessment.
-Bright Network Technological Internship: Gained practical tech experience through workshops and project collaboration.
+1. Citi ICG Technology (Virtual Intern): Enhanced loan management systems and evaluated machine learning for credit risk assessment.
+2. Bright Network Technological Internship: Gained practical tech experience through workshops and project collaboration.
 
 Let's Connect
 🌐 LinkedIn: https://www.linkedin.com/in/mercy-nwabueze-nwoji-a5a7a0230/
