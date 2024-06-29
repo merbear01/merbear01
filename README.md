@@ -21,8 +21,8 @@ Experience
 2. Bright Network Technological Internship: Gained practical tech experience through workshops and project collaboration.
 
 Let's Connect
-🌐 LinkedIn: https://www.linkedin.com/in/mercy-nwabueze-nwoji-a5a7a0230/
-📧 Email: mercynwoji@gmail.com
+1. 🌐 LinkedIn: https://www.linkedin.com/in/mercy-nwabueze-nwoji-a5a7a0230/
+2. 📧 Email: mercynwoji@gmail.com
 Feel free to explore my repositories and reach out for collaboration or questions!
 
 
