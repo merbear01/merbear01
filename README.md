@@ -2,6 +2,7 @@
 Welcome to my ✨GitHub!✨ I'm a passionate software engineer with a background in computer science. I enjoy solving complex problems and building impactful projects.
 
 About Me
+
 🎓 Education: Bachelor's in Computer Science from the University of Greenwich.
 💻 Skills: Python, Java, SQL, R, HTML, CSS, data structures, algorithms.
 📊 Interests: Machine learning, data analysis, and software development.
@@ -9,7 +10,8 @@ About Me
 🚀 Looking for: Graduate roles in tech where I can contribute and grow.
 
 Projects
- My most notable projects include: 
+
+My most notable projects include: 
 1. Content-Based Recommender System: Developed using Python to improve user content suggestions.
 2. Automated Test Case Generation: Implemented with hybrid algorithms to enhance code coverage.
 3. Nutritional Supplements Analysis: Conducted data analysis using R to study impacts on lab animals.
