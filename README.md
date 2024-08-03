@@ -23,6 +23,7 @@ Experience
 Let's Connect
 1. 🌐 LinkedIn: https://www.linkedin.com/in/mercy-nwabueze-nwoji-a5a7a0230/
 2. 📧 Email: mercynwoji@gmail.com
+3. My CV: https://drive.google.com/file/d/1yph_DaV4gZFsuUV0PRWr6d4cWLwozpmf/view?usp=sharing
 Feel free to explore my repositories and reach out for collaboration or questions!
 
 
